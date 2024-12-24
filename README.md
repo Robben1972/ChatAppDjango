@@ -1,4 +1,3 @@
-```markdown
 # Django Project
 
 Welcome to the ChatApp Django Proejct! This README provides instructions for setting up and running the project on your local machine.
